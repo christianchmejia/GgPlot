@@ -1,3 +1,5 @@
+### Christian Marco Chañi Mejía
+
 #install.packages("devtools")
 #devtools::install_github("kassambara/survminer")
 # Seleccionar mediante click
